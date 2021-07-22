@@ -29,14 +29,23 @@ mod in the directory of the game should be in the following files and
 folders:
 
 Bootlegger.exe
+
 LS3D0.dll
+
 rw_data.dll
+
 MAPS
+
 MISSIONS
+
 DIFF
+
 models
+
 sounds
+
 tables
+
 anims
 
 To used  English version of the modification, use the files in the 
